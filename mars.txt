@@ -8,4 +8,5 @@ Probably not.
 8th
 new line to github
 10th line added
-11th mars sucks
+<<<<<<< HEAD
+11th line - we can be friends and resolve conflicts
